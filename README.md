@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋, I'm Your Name</h1>
+# <h1 align="center">Hi 👋, I'm Suraj Rajput</h1>
 
 <h3 align="center">🚀 Full Stack MERN Developer from India</h3>
 
